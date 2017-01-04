@@ -21,27 +21,12 @@ Given the ever-changing nature of the coding world, students will be responsible
 
 
 ## Organization
-This organization has a separate repository for each major topic (module). Each module contains (some of) the following:
+The organization of this course will evolve throughout the quarter. It is currently divided into:
 
-- A tutorial on the specified skill(s)
-- Links to supplementary learning materials
-- Exercises for practicing the skills
+- **Labs**: activities and resources for lab activities
+- **Demos**: Demonstrations of concepts/skills for the course
 
-All exercises provide an instructional template, as well as the completed version of the exercise. More specifically, each learning module with exercises has both `master` and `complete` branches (more on this later). To view the `complete` branch on GitHub, you can easily use the UI to change branches:
-
-![change-branch](imgs/change-branch.png)
-
-You can also access the code on your computer by checking out the branch via your terminal:
-
-```bash
-# Clone your fork of the repository
-git clone https://github.com/USERNAME/m3-git-intro.git
-
-# Checkout the `complete` branch:
-git checkout complete
-```
-
-The `complete` branch of each repo has the completed exercises.  While these were included for your benefit, I **_strongly suggest_** you complete exercises for topics that you aren't completely comfortable with.  Assignments will presume you have mastered the skills of corresponding modules.
+As needed, these will be adapted.
 
 ## Contributing
 If you would like to contribute to this repository by adding an exercise, making an edit, or suggesting a new module, please [create an issue](https://help.github.com/articles/creating-an-issue/), or make the change in a fork of this repository and [submit a pull request](https://help.github.com/articles/using-pull-requests/).  I expect these resources to be continually improving.
