@@ -1,4 +1,4 @@
-# Module 0: Welcome to the course!
+# Welcome to the course!
 
 ## Overview
 Welcome to INFO-498c, Population Health Metrics. This is a course at the University of Washington's [Information School](https://ischool.uw.edu/), and these materials were developed by [Michael Freeman](http://mfviz.com/#/). The purpose of this course is to teach students the necessary technical skills asking sophisticated questions of public health data. While these resources are built for students currently enrolled in the course, they have been structured to be an online resource for anyone hoping to learn the software tools necessary for working with public health data.
